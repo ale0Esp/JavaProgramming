@@ -3,8 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Windows/Documents/Cursos/Java/Programacion/ClaseObject/src/test/testClaseObject.java</file>
-            <file>file:/C:/Users/Windows/Documents/Cursos/Java/Programacion/ClaseObject/src/domain/Empleado.java</file>
+            <file>file:/C:/Users/Windows/Documents/Cursos/JavaProgramacionGit/ClaseObject/src/domain/Gerente.java</file>
+            <file>file:/C:/Users/Windows/Documents/Cursos/JavaProgramacionGit/ClaseObject/src/test/testClaseObject.java</file>
+            <file>file:/C:/Users/Windows/Documents/Cursos/JavaProgramacionGit/ClaseObject/src/domain/Escritor.java</file>
+            <file>file:/C:/Users/Windows/Documents/Cursos/JavaProgramacionGit/ClaseObject/src/domain/TipoEscritura.java</file>
         </group>
     </open-files>
 </project-private>
